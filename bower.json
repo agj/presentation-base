@@ -1,0 +1,7 @@
+{
+  "name": "presentation-base",
+  "private": true,
+  "dependencies": {
+    "remark": "~0.12.0"
+  }
+}
