@@ -1,7 +1,6 @@
 {
   "name": "presentation-base",
   "version": "0.0.0",
-  "dependencies": {},
   "devDependencies": {
     "event-stream": "^3.3.2",
     "fs-extra": "^0.26.0",
@@ -9,9 +8,9 @@
     "gulp": "^3.9.0",
     "gulp-main-bower-files": "^1.2.3",
     "gulp-util": "^3.0.7",
+    "longjohn": "^0.2.10",
     "node-watch": "^0.3.4",
     "ramda": "^0.18.0",
-    "superstack": "^0.0.4",
     "yargs": "^3.29.0"
   },
   "scripts": {

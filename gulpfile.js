@@ -13,8 +13,7 @@ let cfg = {
 };
 
 
-require('superstack');
-
+require('longjohn');
 let R = require('ramda');
 let gulp = require('gulp');
 let gutil = require('gulp-util');
